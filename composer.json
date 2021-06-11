@@ -1,0 +1,15 @@
+{
+    "name": "Tagtagovich/NoParsingDOM",
+    "type": "project",
+    "description": "The parsing library for pages/sites",
+    "keywords": ["project", "parsing"],
+    "license": "MIT",
+    "require": {
+        "php": "^7.3|^8.0"
+    },	
+	"autoload": {
+    	"psr-4": {
+        	"NoParsingDOM\\": "src/"
+        }
+    }
+}
