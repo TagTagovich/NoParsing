@@ -1,4 +1,4 @@
-# ParsingHTML 1
+# ParsingHTML 
 This is a draft library project for parsing html pages/sites. In the context of the project, it is important to combine PHP language facilities (DOM, CURL) with external parsing libraries. Define a single user interface - generalizing the methods of various components. At the same time, preserve the ability to flexibly configure such functions. Also, on this basis, create the Functionality of highly customizable data analysis filters.
 ## Software release life cycle 2
 - Formation of a general view of the project
